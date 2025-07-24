@@ -25,7 +25,7 @@ export default function ContactMe() {
                             className='w-10 h-10'
                         />
                     </a>
-                    <a href='https://github.com/saviotrindade/'>
+                    <a href='https://github.com/saviobandeira'>
                             <img
                                 src='/images/icons/github-icon.svg'
                                 alt='GitHub icon'

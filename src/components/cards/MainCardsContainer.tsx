@@ -14,14 +14,14 @@ export default function MainCardsContainer() {
                     alt=' '
                 />
                 <MainCard 
-                    title='Dashboards'
-                    description='Crio dashboards interativos e claros para visualização eficiente dos seus dados.'
-                    src='/images/icons/dashboard-icon.svg'
+                    title='Integrações'
+                    description='Conecto sistemas e APIs para criar fluxos eficientes e centralizar informações.'
+                    src='/images/icons/link-icon.svg'
                     alt=' '
                 />
                 <MainCard
-                    title='Integração'
-                    description='Conecto sistemas para tornar seus fluxos de trabalho mais ágeis e seguros.'
+                    title='Aplicações Web'
+                    description='Desenvolvo aplicações responsivas e funcionais para diferentes dispositivos.'
                     src='/images/icons/link-icon.svg'
                     alt=' '
                 />

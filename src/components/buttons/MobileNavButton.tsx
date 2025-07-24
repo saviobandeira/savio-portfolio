@@ -21,7 +21,7 @@ export default function MobileNavButton() {
                     <p className='uppercase text-center'>projetos</p>
                 </a>
                 <a
-                    href='https://github.com/saviotrindade'
+                    href='https://github.com/saviobandeira'
                     className='mobile-menu-option cursor-pointer border-2 border-transparent p-4 rounded-lg hover:bg-primary-100 hover:border-details'
                 >
                     <p className='uppercase text-center'>github</p>

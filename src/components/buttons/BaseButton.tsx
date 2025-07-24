@@ -45,10 +45,13 @@ export default function BaseButton({ name, color, size, icon }: Props) {
                 return '/projects/';
 
             case 'github':
-                return 'https://github.com/saviotrindade';
+                return 'https://github.com/saviobandeira';
             
             case 'Ver Mais':
                 return '/projects/';
+            
+            case 'Baixar currículo':
+                return '/curriculo.pdf'
         }
     }
 
