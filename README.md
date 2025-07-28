@@ -13,8 +13,6 @@ A proposta aqui é simples: mostrar o que sei fazer através de código. Cada pr
 
 <img src="./public/images/banner.png" alt="Project banner"/>
 
-> ⚠️ **Aviso:** Este projeto ainda está em desenvolvimento. Estou organizando a base da aplicação e os projetos ainda serão adicionados nas próximas versões.
-
 
 ## Projetos
 
