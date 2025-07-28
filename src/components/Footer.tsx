@@ -29,7 +29,7 @@ export default function Footer() {
                 </div>
                 <div className='flex flex-col gap-6 items-center'>
                     <div>
-                        <p className='text-center max-w-2xs'>Procurando por um desenvolvedor experiente? Estou disponível para novas oportunidades como PJ.</p>
+                        <p className='text-center max-w-2xs'>Confira minhas experiências profissionais e qualificações.</p>
                     </div>
                     <DownloadCVButton />
                 </div>

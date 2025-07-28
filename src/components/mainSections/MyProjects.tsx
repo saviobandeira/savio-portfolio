@@ -13,7 +13,7 @@ export default function MyProjects() {
             >
                 <div>
                     <h2 className=' text-2xl font-bold pb-2'>Meus Projetos</h2>
-                    <p>Utilzando as melhores ferramentes!</p>
+                    <p>Aplicações focadas em organização, performance e boas práticas.</p>
                 </div>
                 <div className=' pt-6 sm:pt-0'>
                     <FilterButton />

@@ -22,7 +22,7 @@ export default function MainCardsContainer() {
                 <MainCard
                     title='Aplicações Web'
                     description='Desenvolvo aplicações responsivas e funcionais para diferentes dispositivos.'
-                    src='/images/icons/link-icon.svg'
+                    src='/images/icons/web-icon.svg'
                     alt=' '
                 />
             </div>

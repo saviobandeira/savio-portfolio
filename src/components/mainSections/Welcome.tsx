@@ -13,7 +13,7 @@ export default function Welcome() {
 
             <div className='px-6 pt-16'>
                 <div className='flex flex-col p-4 bg-primary-100 border border-details rounded-lg md:p-6 md:flex-row md:justify-between md:items-center'>
-                    <p className='pb-4 md:pb-0'>Quer mais eficiência, agilidade e resultados? Fale comigo.</p>
+                    <p className='pb-4 md:pb-0'>Profissionalismo e dedicação para seu próximo projeto. Conte comigo.</p>
                     <ContactMeButtonCTA />
                 </div>
             </div>

@@ -14,8 +14,8 @@ export default function ContactMe() {
                 className='lg:pb-16 lg:flex lg:justify-between lg:items-center'
             >
                 <div className=''>
-                    <h2 className='text-2xl font-bold pb-2'>Você pode me contatar diretamente.</h2>
-                    <p>Estou pronto para ajudar no seu projeto.</p>
+                    <h2 className='text-2xl font-bold pb-2'>Entre em Contato</h2>
+                    <p>Disponível para novas oportunidades e colaborações.</p>
                 </div>
                 <div className='flex flex-wrap gap-4 pt-6 md:gap-6 lg:pt-0 lg:pl-0 '>
                     <a href='https://www.instagram.com/savio.band/'>

@@ -58,7 +58,7 @@ export default function BaseButton({ name, color, size, icon }: Props) {
     return (
         <a
             className={`
-            flex items-center justify-center gap-2 rounded-lg uppercase cursor-pointer
+            flex items-center justify-center gap-2 rounded-lg uppercase cursor-pointer whitespace-nowrap
             ${sizes[size || 'medium']}
             ${setColor()}`}
             href={setHref()}
